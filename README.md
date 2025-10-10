@@ -652,7 +652,6 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [prestodb/presto-query-predictor](https://github.com/prestodb/presto-query-predictor) - A query predictor pipeline and service to predict resource usages of Presto queries
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
@@ -712,6 +711,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [cloudwego/motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by AFIT and RPITIT.
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。
 - [istio/ztunnel](https://github.com/istio/ztunnel) - The `ztunnel` component of ambient mesh
