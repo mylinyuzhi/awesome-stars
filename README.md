@@ -608,7 +608,7 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [Zippland/Bubbles](https://github.com/Zippland/Bubbles) - All-in-one Agent
 - [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
-- [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
+- [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
 - [ozyyshr/RepoGraph](https://github.com/ozyyshr/RepoGraph) - Enhancing AI Software Engineering with Repository-level Code Graph
 - [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py) - 
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
