@@ -227,7 +227,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dremio/dremio-oss](https://github.com/dremio/dremio-oss) - Dremio - the missing link in modern data
@@ -417,7 +417,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - Fastest SQL ETL pipeline in a single C++ binary - for stream processing, analytics, and AI/ML on real-time data from events, logs, metrics, traces, and transactions.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
@@ -515,7 +515,7 @@
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - MySQL-compatible HTAP database with Git for Data, vector search, and fulltext search. Cloud-native, AI-ready
 - [photondb/photondb](https://github.com/photondb/photondb) - A high-performance storage engine for modern hardware and platforms.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [snowflakedb/snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
 - [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
@@ -1161,7 +1161,7 @@
 - [gocrane/crane](https://github.com/gocrane/crane) - Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only to help users to manage cloud cost easier but also ensure the quality of applications
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
@@ -1304,12 +1304,12 @@
 
 ## others 
 
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading: https://ai4trade.ai
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
 - [MagicCube/deer-code](https://github.com/MagicCube/deer-code) - A minimalist yet sufficient project for enabling everyone to learn how to develop an AI Coding Agent.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open Agent Coding CLI, Koding with GLM, Qwen, Kimi, DeepSeek etc.（welcome to use Kode to summit PR)
+- [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - not another coding agent, kode is agent cli for everything
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 - [anthropics/anthropic-retrieval-demo](https://github.com/anthropics/anthropic-retrieval-demo) - Lightweight demo using the Anthropic Python SDK to experiment with Claude's Search and Retrieval capabilities over a variety of knowledge bases (Elasticsearch, vector databases, web search, and Wikipe
 - [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format
@@ -1777,7 +1777,7 @@
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [photondb/photondb](https://github.com/photondb/photondb) - A high-performance storage engine for modern hardware and platforms.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.
 - [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
@@ -1917,7 +1917,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [qvad/taqo](https://github.com/qvad/taqo) - Query Optimizer Testing Framework for Postgres compatible DBs
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - Fastest SQL ETL pipeline in a single C++ binary - for stream processing, analytics, and AI/ML on real-time data from events, logs, metrics, traces, and transactions.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
 - [lealone/Lealone](https://github.com/lealone/Lealone) - 比 MySQL 和 MongoDB 快10倍的 OLTP 关系数据库和文档数据库
 - [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
@@ -1930,7 +1930,7 @@
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - MySQL-compatible HTAP database with Git for Data, vector search, and fulltext search. Cloud-native, AI-ready
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [snowflakedb/snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.
