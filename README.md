@@ -551,7 +551,7 @@
 
 ## Others 
 
-- [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., 2025)
+- [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., EMNLP 2025)
 - [EasonWong0327/QA-Systems-Hub](https://github.com/EasonWong0327/QA-Systems-Hub) - It includes various question-answering technology sub-projects
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -693,7 +693,6 @@
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [lizan/bazel-cmakelists](https://github.com/lizan/bazel-cmakelists) - Convert Bazel C++ targets to CMakeLists for IDEs
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [triggermesh/knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
@@ -852,6 +851,7 @@
 - [stolostron/deploy](https://github.com/stolostron/deploy) - Deploy Development Builds of Open Cluster Management (OCM) on RedHat Openshift Container Platform
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Svelte 
