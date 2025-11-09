@@ -657,6 +657,7 @@
 
 ## finance 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 
 ## flask 
@@ -1074,6 +1075,7 @@
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1304,7 +1306,7 @@
 
 ## others 
 
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://hkuds.github.io/AI-Trader/
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
 - [MagicCube/deer-code](https://github.com/MagicCube/deer-code) - A minimalist yet sufficient project for enabling everyone to learn how to develop an AI Coding Agent.
@@ -1325,12 +1327,11 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [Zippland/Bubbles](https://github.com/Zippland/Bubbles) - All-in-one Agent
 - [unit-mesh/autodev-workbench](https://github.com/unit-mesh/autodev-workbench) - AutoDev Workbench is an AI-native developer platform designed to accelerate, automate, and contextualize modern software development workflows.
-- [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., 2025)
+- [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., EMNLP 2025)
 - [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
 - [ozyyshr/RepoGraph](https://github.com/ozyyshr/RepoGraph) - Enhancing AI Software Engineering with Repository-level Code Graph
 - [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py) - 
 - [EasonWong0327/QA-Systems-Hub](https://github.com/EasonWong0327/QA-Systems-Hub) - It includes various question-answering technology sub-projects
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [wxywb/history_rag](https://github.com/wxywb/history_rag) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [joaodsmarques/LumberChunker](https://github.com/joaodsmarques/LumberChunker) - This repository presents the original implementation of LumberChunker: Long-Form Narrative Document Segmentation by André V. Duarte, João Marques, Miguel Graça, Miguel Freire, Lei Li and Arlindo L. Ol
@@ -2002,6 +2003,7 @@
 
 ## trading 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 
 ## twitter 
