@@ -417,7 +417,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
@@ -1916,7 +1916,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [qvad/taqo](https://github.com/qvad/taqo) - Query Optimizer Testing Framework for Postgres compatible DBs
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
 - [lealone/Lealone](https://github.com/lealone/Lealone) - 比 MySQL 和 MongoDB 快10倍的 OLTP 关系数据库和文档数据库
 - [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
