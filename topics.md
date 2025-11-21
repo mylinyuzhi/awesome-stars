@@ -1305,6 +1305,7 @@
 
 ## others 
 
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deepagents is an agent harness built on langchain and langgraph. Deep agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to 
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
