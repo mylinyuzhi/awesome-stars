@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
 - [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format
 - [conanhujinming/flash_hash_join](https://github.com/conanhujinming/flash_hash_join) - A flash implementation of hash join in C++
 - [conanhujinming/columnar_memtable](https://github.com/conanhujinming/columnar_memtable) - 
@@ -862,6 +863,7 @@
 
 ## TypeScript 
 
+- [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - not another coding agent, kode is agent cli for everything
