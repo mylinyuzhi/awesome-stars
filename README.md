@@ -446,7 +446,7 @@
 - [apache/ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
-- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [komamitsu/phi-accrual-failure-detector](https://github.com/komamitsu/phi-accrual-failure-detector) - A port of Akka's Phi Accrual Failure Detector
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [apache/hama](https://github.com/apache/hama) - Mirror of Apache Hama
@@ -862,6 +862,7 @@
 
 ## TypeScript 
 
+- [talkcody/talkcody](https://github.com/talkcody/talkcody) - TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
