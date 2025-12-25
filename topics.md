@@ -1466,7 +1466,7 @@
 - [zeng-zhiming/expo-react-native-wechat](https://github.com/zeng-zhiming/expo-react-native-wechat) - Expo React Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment.
 - [little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib) - 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [apache/griffin](https://github.com/apache/griffin) - Mirror of Apache griffin
