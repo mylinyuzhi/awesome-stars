@@ -530,7 +530,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## data-science 
@@ -583,7 +583,7 @@
 - [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [cmu-db/peloton](https://github.com/cmu-db/peloton) - The Self-Driving Database Management System
 - [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
@@ -1419,7 +1419,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - not another coding agent, kode is agent cli for everything
+- [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Kode is one unit agent for every human & computer task
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 - [anthropics/anthropic-retrieval-demo](https://github.com/anthropics/anthropic-retrieval-demo) - Lightweight demo using the Anthropic Python SDK to experiment with Claude's Search and Retrieval capabilities over a variety of knowledge bases (Elasticsearch, vector databases, web search, and Wikipe
 - [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format
@@ -1753,7 +1753,7 @@
 - [digoal/blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
@@ -1914,7 +1914,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.
 - [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
