@@ -55,10 +55,10 @@
 - [UncP/aili](https://github.com/UncP/aili) - the fastest in-memory index in the East 东半球最快并发索引
 - [elfmaster/ftrace](https://github.com/elfmaster/ftrace) - POSIX Function tracing
 - [namhyung/uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust/Python
-- [BohuTANG/omt](https://github.com/BohuTANG/omt) - A cache-efﬁciency weight balanced binary tree
+- [bohutang/omt](https://github.com/bohutang/omt) - A cache-efﬁciency weight balanced binary tree
 - [MonetDB/MonetDB](https://github.com/MonetDB/MonetDB) - This is the official mirror of the MonetDB Mercurial repository. Please note that we do not accept pull requests on github. The regression test results can be found on the MonetDB Testweb https://www.
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
-- [BohuTANG/nessDB](https://github.com/BohuTANG/nessDB) - A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
+- [bohutang/nessDB](https://github.com/bohutang/nessDB) - A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [panda-net/panda](https://github.com/panda-net/panda) - PANDA open source project
