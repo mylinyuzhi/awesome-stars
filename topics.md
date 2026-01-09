@@ -1592,7 +1592,7 @@
 - [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [housepower/olap2018](https://github.com/housepower/olap2018) - 易观第二届OLAP漏斗算法大赛 开源组第一名开源代码
-- [BohuTANG/omt](https://github.com/BohuTANG/omt) - A cache-efﬁciency weight balanced binary tree
+- [bohutang/omt](https://github.com/bohutang/omt) - A cache-efﬁciency weight balanced binary tree
 - [HappenLee/cdecl](https://github.com/HappenLee/cdecl) - A small program that recognizes C/C++ declarations.
 - [bmkessler/fastdiv](https://github.com/bmkessler/fastdiv) - Fast division, modulus and divisibility checks in Go for divisors known only at runtime.
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
@@ -1610,7 +1610,7 @@
 - [radlab/sparrow](https://github.com/radlab/sparrow) - Sparrow scheduling platform (U.C. Berkeley).
 - [yongwen/columbia](https://github.com/yongwen/columbia) - An efficient database query optimizer for large complex join queries
 - [tellproject/tellstore](https://github.com/tellproject/tellstore) - A in-memory storage manager, that can do versioning and fast scans
-- [BohuTANG/nessDB](https://github.com/BohuTANG/nessDB) - A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
+- [bohutang/nessDB](https://github.com/bohutang/nessDB) - A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A composable and fully extensible C++ execution engine library for data management systems.
 - [sunshowers-code/lifetime-variance](https://github.com/sunshowers-code/lifetime-variance) - Rust tutorial to demonstrate how variance works
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
