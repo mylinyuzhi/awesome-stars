@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [steveyegge/vc](https://github.com/steveyegge/vc) - VC - AI-orchestrated coding agent colony
 - [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -885,7 +886,7 @@
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-- [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Design for post human.   Kode is one unit agent for every human & computer task
+- [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
