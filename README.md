@@ -593,6 +593,7 @@
 
 ## Python 
 
+- [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [inclusionAI/AEnvironment](https://github.com/inclusionAI/AEnvironment) - Standardized environment infrastructure for Agentic AI development.
@@ -615,7 +616,7 @@
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
 - [snap-research/locomo](https://github.com/snap-research/locomo) - 
 - [xiaowu0162/LongMemEval](https://github.com/xiaowu0162/LongMemEval) - Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like clawdbot.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [cmriat/l0](https://github.com/cmriat/l0) - A scalable, end-to-end training pipeline for general-purpose agents
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -646,7 +647,7 @@
 - [AkariAsai/self-rag](https://github.com/AkariAsai/self-rag) - This includes the original implementation of SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.
 - [google-deepmind/opro](https://github.com/google-deepmind/opro) - official code for "Large Language Models as Optimizers"
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -875,6 +876,7 @@
 
 ## TypeScript 
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
