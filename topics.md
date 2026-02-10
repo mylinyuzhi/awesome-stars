@@ -1436,12 +1436,14 @@
 
 ## others 
 
+- [Chen-GX/IterResearch](https://github.com/Chen-GX/IterResearch) - 
+- [flight505/mcp-think-tank](https://github.com/flight505/mcp-think-tank) - MCP Think Tank is a powerful Model Context Protocol (MCP) server designed to enhance the capabilities of AI assistants like Cursor and Claude. It provides a structured environment for enhanced reasoni
 - [mikekelly/claude-sneakpeek](https://github.com/mikekelly/claude-sneakpeek) - Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode.
 - [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) - Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [steveyegge/vc](https://github.com/steveyegge/vc) - VC - AI-orchestrated coding agent colony
