@@ -562,6 +562,8 @@
 
 ## Others 
 
+- [AweAI-Team/BeyondSWE](https://github.com/AweAI-Team/BeyondSWE) - 
+- [AweAI-Team/ScaleSWE](https://github.com/AweAI-Team/ScaleSWE) - 
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [TokenRollAI/cc-plugin](https://github.com/TokenRollAI/cc-plugin) - (WIP) toeknroll cc-plugin
 - [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., EMNLP 2025)
@@ -601,6 +603,7 @@
 
 ## Python 
 
+- [AweAI-Team/AweAgent](https://github.com/AweAI-Team/AweAgent) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [Chen-GX/IterResearch](https://github.com/Chen-GX/IterResearch) - 
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
