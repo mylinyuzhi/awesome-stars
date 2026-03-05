@@ -1432,6 +1432,9 @@
 
 ## others 
 
+- [AweAI-Team/AweAgent](https://github.com/AweAI-Team/AweAgent) - 
+- [AweAI-Team/BeyondSWE](https://github.com/AweAI-Team/BeyondSWE) - 
+- [AweAI-Team/ScaleSWE](https://github.com/AweAI-Team/ScaleSWE) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [nekocode/agent-team](https://github.com/nekocode/agent-team) - A multi-agent CLI orchestrator via the Agent Client Protocol. Manage 20+ coding agents from one terminal.
