@@ -604,6 +604,7 @@
 
 ## Python 
 
+- [jackwener/xhs-cli](https://github.com/jackwener/xhs-cli) - 小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI
 - [AweAI-Team/AweAgent](https://github.com/AweAI-Team/AweAgent) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [Chen-GX/IterResearch](https://github.com/Chen-GX/IterResearch) - 
@@ -868,7 +869,7 @@
 ## Scala 
 
 - [apache/griffin](https://github.com/apache/griffin) - Mirror of Apache griffin
-- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+- [apache/gluten](https://github.com/apache/gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
