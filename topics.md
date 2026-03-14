@@ -205,6 +205,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -1464,7 +1465,6 @@
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
