@@ -215,7 +215,7 @@
 - [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [hnes/tiexec](https://github.com/hnes/tiexec) - TiExec tries to alleviate the iTLB-Cache-Miss problem of the application it loaded, so it will bring some direct performance improvement to those applications that are being punished by iTLB-Cache-Mis
-- [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud-native container sandbox system that leverages AppArmor/BPF/Seccomp and network proxy (Envoy sidecar) to enforce access control from system calls to application protocols — protectin
+- [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting
 - [ds2-lab/infinistore](https://github.com/ds2-lab/infinistore) - InfiniStore: an elastic serverless cloud storage system (VLDB'23)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [elastic-ai/elastic-gpu](https://github.com/elastic-ai/elastic-gpu) - Using CRDs to manage GPU resources in Kubernetes.
@@ -741,6 +741,7 @@
 
 ## Rust 
 
+- [aiqubits/keycompute](https://github.com/aiqubits/keycompute) - KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. KeyCompute 是下一代高性能，易拓展，开箱即用的 AI Token 算力服务平台。
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [nekocode/agent-team](https://github.com/nekocode/agent-team) - A multi-agent CLI orchestrator via the Agent Client Protocol. Manage 20+ coding agents from one terminal.
