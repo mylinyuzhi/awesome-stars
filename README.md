@@ -492,7 +492,6 @@
 
 ## JavaScript 
 
-- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
@@ -566,6 +565,7 @@
 
 ## Others 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [AweAI-Team/BeyondSWE](https://github.com/AweAI-Team/BeyondSWE) - 
 - [AweAI-Team/ScaleSWE](https://github.com/AweAI-Team/ScaleSWE) - 
@@ -906,6 +906,7 @@
 
 ## TypeScript 
 
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps
 - [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
