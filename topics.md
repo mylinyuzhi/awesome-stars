@@ -1564,6 +1564,7 @@
 
 ## others 
 
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [agentara/skills](https://github.com/agentara/skills) - Original and practical skills for AI builders.
 - [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 - [ZaynJarvis/aesthetics](https://github.com/ZaynJarvis/aesthetics) - A public workbook of design styles, aesthetics, and image-generation prompts.
