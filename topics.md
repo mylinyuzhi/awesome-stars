@@ -1768,7 +1768,7 @@
 - [RustMagazine/rust_magazine_2022](https://github.com/RustMagazine/rust_magazine_2022) - Rust 杂志 2022 （已终止）
 - [ngaut/builddatabase](https://github.com/ngaut/builddatabase) - Build a distributed SQL database from the ground up
 - [cosmoss-jigu/hydralist](https://github.com/cosmoss-jigu/hydralist) - 
-- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
+- [monoio-rs/monoio](https://github.com/monoio-rs/monoio) - Rust async runtime based on io-uring.
 - [databendlabs/databend-perf](https://github.com/databendlabs/databend-perf) - Databend Performance Data and Visualization
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [infinidb/infinidb](https://github.com/infinidb/infinidb) - InfiniDB Data Warehouse
