@@ -648,7 +648,7 @@
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
 - [snap-research/locomo](https://github.com/snap-research/locomo) - 
 - [xiaowu0162/LongMemEval](https://github.com/xiaowu0162/LongMemEval) - Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - File System as Memory, Memory Shapes the Agent
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [cmriat/l0](https://github.com/cmriat/l0) - A scalable, end-to-end training pipeline for general-purpose agents
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -917,6 +917,7 @@
 
 ## TypeScript 
 
+- [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [ZaynJarvis/aesthetics](https://github.com/ZaynJarvis/aesthetics) - A public workbook of design styles, aesthetics, and image-generation prompts.
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
