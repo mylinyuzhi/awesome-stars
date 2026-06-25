@@ -576,7 +576,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
@@ -1380,7 +1380,7 @@
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [FradSer/mcp-server-mas-sequential-thinking](https://github.com/FradSer/mcp-server-mas-sequential-thinking) - An advanced sequential thinking process using a Multi-Agent System (MAS) built with the Agno framework and served via MCP.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
@@ -2277,7 +2277,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [qvad/taqo](https://github.com/qvad/taqo) - Query Optimizer Testing Framework for Postgres compatible DBs
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC
 - [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)
