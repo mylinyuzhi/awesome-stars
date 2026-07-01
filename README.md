@@ -537,7 +537,7 @@
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [MLNLP-World/DeepLearning-MuLi-Notes](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning
 
 ## Kotlin 
