@@ -737,6 +737,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML
 - [flink-extended/ai-flow](https://github.com/flink-extended/ai-flow) - AI Flow is an open source framework that bridges big data and artificial intelligence.
 - [alibaba/lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search) - This is a collection of our zero-cost NAS and efficient vision applications.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [radlab/sparrow](https://github.com/radlab/sparrow) - Sparrow scheduling platform (U.C. Berkeley).
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
@@ -775,7 +776,7 @@
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [cloudwego/motore](https://github.com/cloudwego/motore) - Async middleware abstraction powered by AFIT and RPITIT.
-- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。
+- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios.
 - [istio/ztunnel](https://github.com/istio/ztunnel) - The `ztunnel` component of ambient mesh
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
 - [TennyZhuang/ref-stable-lru](https://github.com/TennyZhuang/ref-stable-lru) - 
@@ -983,7 +984,6 @@
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [databendlabs/databend-perf](https://github.com/databendlabs/databend-perf) - Databend Performance Data and Visualization
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
