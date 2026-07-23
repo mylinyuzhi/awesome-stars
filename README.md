@@ -574,7 +574,6 @@
 
 ## Others 
 
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [AweAI-Team/BeyondSWE](https://github.com/AweAI-Team/BeyondSWE) - 
@@ -616,6 +615,7 @@
 ## Python 
 
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog (AI
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
@@ -931,7 +931,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps
-- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
+- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - 本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。
 - [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis) - 🤖 The analysis of Claude Code
 - [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [164149043/AlphaCouncil](https://github.com/164149043/AlphaCouncil) - 多智能体股票分析决策系统，需Gemini、DeepSeek、聚合数据这三个平台的API来获取数据后进行分析决策和参考意见。
