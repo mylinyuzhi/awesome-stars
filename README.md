@@ -215,7 +215,7 @@
 - [cocoonstack/sandbox](https://github.com/cocoonstack/sandbox) - Fast cold-boot MicroVM sandboxes for AI agents on cocoon
 - [JimChengLin/minweight_store](https://github.com/JimChengLin/minweight_store) - Ordered embedded KV store built on minpatricia with mmap WAL and Parquet SST
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [steveyegge/vc](https://github.com/steveyegge/vc) - VC - AI-orchestrated coding agent colony
 - [c4pt0r/agfs](https://github.com/c4pt0r/agfs) - Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9
