@@ -1651,8 +1651,9 @@
 
 ## others 
 
+- [radixark/miles](https://github.com/radixark/miles) - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant
+- [apache/maka](https://github.com/apache/maka) - Maka — local-first AI desktop assistant
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [OnlyTerp/hermes-optimization-guide](https://github.com/OnlyTerp/hermes-optimization-guide) - Hermes Agent setup, migration, LightRAG, Telegram, and skill creation guide
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
