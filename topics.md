@@ -1800,7 +1800,7 @@
 - [bilibili/quiche](https://github.com/bilibili/quiche) - 
 - [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - a unified scheduler for online and offline tasks
-- [apache/auron](https://github.com/apache/auron) - The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+- [apache/auron](https://github.com/apache/auron) - Apache Auron(Incubating) is an accelerator for big data engines, leveraging native vectorized execution to accelerate query processing.
 - [daos-stack/daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 - [apache/geaflow](https://github.com/apache/geaflow) - Apache GeaFlow: A Streaming Graph Computing Engine.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
