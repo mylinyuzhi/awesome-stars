@@ -728,7 +728,7 @@
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave.
 - [digoal/blog](https://github.com/digoal/blog) - AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust by building a type-safe, auto-vectorized database expression engine
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [photondb/photondb](https://github.com/photondb/photondb) - A high-performance storage engine for modern hardware and platforms.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
@@ -2224,7 +2224,7 @@
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust by building a type-safe, auto-vectorized database expression engine
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [photondb/photondb](https://github.com/photondb/photondb) - A high-performance storage engine for modern hardware and platforms.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
