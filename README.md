@@ -29,6 +29,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [Python](#python)
+- [Roff](#roff)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
@@ -718,7 +719,7 @@
 - [RUCKBReasoning/RESDSQL](https://github.com/RUCKBReasoning/RESDSQL) - The Pytorch implementation of RESDSQL (AAAI 2023).
 - [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -749,6 +750,10 @@
 - [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes
 - [antgroup/ant-ray](https://github.com/antgroup/ant-ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offering incremental new features on top of 
 - [Prinsphield/Wechat_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
+
+## Roff 
+
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Rust 
 
@@ -916,6 +921,7 @@
 
 ## TypeScript 
 
+- [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) - SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [durable-streams/durable-streams](https://github.com/durable-streams/durable-streams) - The data primitive for the agent loop.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
@@ -924,7 +930,7 @@
 - [ZaynJarvis/aesthetics](https://github.com/ZaynJarvis/aesthetics) - A public workbook of design styles, aesthetics, and image-generation prompts.
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [alejandrobalderas/claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) - Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps
 - [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feish
 - [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis) - 🤖 The analysis of Claude Code
