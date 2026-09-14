@@ -1656,6 +1656,7 @@
 
 ## others 
 
+- [tobi/walgit](https://github.com/tobi/walgit) - 
 - [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) - SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
 - [radixark/miles](https://github.com/radixark/miles) - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
