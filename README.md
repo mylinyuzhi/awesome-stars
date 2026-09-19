@@ -816,7 +816,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tensorbase/baselog](https://github.com/tensorbase/baselog) - High performance sync style Rust logging facility dedicated for Linux
 - [tensorbase/basejit](https://github.com/tensorbase/basejit) - 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [SchrodingerZhu/snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - rust bindings of snmalloc
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [Little-Wallace/naivedb](https://github.com/Little-Wallace/naivedb) - A simple sql server code by rust
