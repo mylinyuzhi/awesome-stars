@@ -1753,7 +1753,7 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [allwefantasy/auto-coder](https://github.com/allwefantasy/auto-coder) - 
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
-- [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+- [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway.
 - [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
 - [zeng-zhiming/expo-react-native-wechat](https://github.com/zeng-zhiming/expo-react-native-wechat) - Expo React Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment.
 - [little-snow-fox/react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib) - 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android
