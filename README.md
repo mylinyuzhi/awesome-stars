@@ -755,6 +755,7 @@
 
 ## Rust 
 
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [tobi/walgit](https://github.com/tobi/walgit) - 
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
