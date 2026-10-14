@@ -1051,6 +1051,7 @@
 - [onflow/flow](https://github.com/onflow/flow) - Flow is a Layer 1 proof-of-stake blockchain built for consumer applications, AI Agents, and DeFi at scale. Repo hub for the Flow network
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go enables reliability and resiliency for Go microservices
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [zboya/golang_runtime_reading](https://github.com/zboya/golang_runtime_reading) - golang 1.10.2 runtime code reading - golang runtime源码分析。只有思考过，你才会印象深刻。
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2358,6 +2359,7 @@
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an open-source container platform that requires no Kubernetes expertise. Its core capabilities are 100% open source.  It abstracts away infrastructure complexity and provides a unified way
 
 ## serverless 
