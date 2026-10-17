@@ -45,7 +45,7 @@
 ## C 
 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [HaloTech-Co-Ltd/openHalo](https://github.com/HaloTech-Co-Ltd/openHalo) - openHalo provides the capability for PostgreSQL to work with applications written for MySQL but provides much more better performance than MySQL.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -698,7 +698,7 @@
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [lucidrains/titans-pytorch](https://github.com/lucidrains/titans-pytorch) - Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [prestodb/presto-query-predictor](https://github.com/prestodb/presto-query-predictor) - A query predictor pipeline and service to predict resource usages of Presto queries
@@ -711,6 +711,7 @@
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [qvad/taqo](https://github.com/qvad/taqo) - Query Optimizer Testing Framework for Postgres compatible DBs
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting](https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting) - 
@@ -942,7 +943,7 @@
 - [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) - 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI
 - [164149043/AlphaCouncil](https://github.com/164149043/AlphaCouncil) - 多智能体股票分析决策系统，需Gemini、DeepSeek、聚合数据这三个平台的API来获取数据后进行分析决策和参考意见。
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
@@ -972,7 +973,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [unit-mesh/autodev-workbench](https://github.com/unit-mesh/autodev-workbench) - AutoDev Workbench is an AI-native developer platform designed to accelerate, automate, and contextualize modern software development workflows.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
@@ -987,7 +988,6 @@
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [FeatureProbe/FeatureProbe](https://github.com/FeatureProbe/FeatureProbe) - FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
