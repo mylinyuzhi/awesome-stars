@@ -763,7 +763,7 @@
 - [tobi/walgit](https://github.com/tobi/walgit) - 
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [keycompute/keycompute](https://github.com/keycompute/keycompute) - KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. KeyCompute 是新一代高性能，易拓展，开箱即用的 AI Token 算力租赁与聚合服务平台。
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
@@ -774,7 +774,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
