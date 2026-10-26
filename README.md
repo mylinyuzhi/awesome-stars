@@ -598,7 +598,6 @@
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [gocn/news](https://github.com/gocn/news) - GoCN 每日新闻
 - [cloudnativeapp/news](https://github.com/cloudnativeapp/news) - Cloud Native Daily Digest 云原生技术日报
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [openshift-knative/knative-serving-operator](https://github.com/openshift-knative/knative-serving-operator) - OBSOLETE: moved to https://github.com/knative/serving-operator
@@ -750,6 +749,7 @@
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [lizan/bazel-cmakelists](https://github.com/lizan/bazel-cmakelists) - Convert Bazel C++ targets to CMakeLists for IDEs
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [triggermesh/knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
