@@ -30,7 +30,6 @@
 - [Others](#others)
 - [PLpgSQL](#plpgsql)
 - [Python](#python)
-- [Roff](#roff)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
@@ -504,7 +503,6 @@
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [Tencent/westore](https://github.com/Tencent/westore) - 小程序MVVM分层架构
 - [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec
-- [NightTrek/Software-planning-mcp](https://github.com/NightTrek/Software-planning-mcp) - An experiment in software planning using MCP
 - [huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
 - [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (已完结)
 - [RustMagazine/rust_magazine_2022](https://github.com/RustMagazine/rust_magazine_2022) - Rust 杂志 2022 （已终止）
@@ -576,13 +574,13 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [AweAI-Team/BeyondSWE](https://github.com/AweAI-Team/BeyondSWE) - 
 - [AweAI-Team/ScaleSWE](https://github.com/AweAI-Team/ScaleSWE) - 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [alex-laitenberger/stronger-baselines-rag](https://github.com/alex-laitenberger/stronger-baselines-rag) - Overview and entry point for methods and experiment environments from paper "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models" (Laitenberger et al., EMNLP 2025)
 - [EasonWong0327/QA-Systems-Hub](https://github.com/EasonWong0327/QA-Systems-Hub) - It includes various question-answering technology sub-projects
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [ray-project/llmperf-leaderboard](https://github.com/ray-project/llmperf-leaderboard) - 
-- [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) - Papers for database systems powered by artificial intelligence (machine learning for database)
 - [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup
 - [xujihui1985/bpftrace_example](https://github.com/xujihui1985/bpftrace_example) - 
 - [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) - 数据库测试资料 This repo is a collection of resources on testing database systems
@@ -719,6 +717,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) - Papers for database systems powered by artificial intelligence (machine learning for database)
 - [MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting](https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting) - 
 - [RUCKBReasoning/RESDSQL](https://github.com/RUCKBReasoning/RESDSQL) - The Pytorch implementation of RESDSQL (AAAI 2023).
 - [ModelTC/LightLLM](https://github.com/ModelTC/LightLLM) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
@@ -756,10 +755,6 @@
 - [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes
 - [antgroup/ant-ray](https://github.com/antgroup/ant-ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offering incremental new features on top of 
 - [Prinsphield/Wechat_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Rust 
 
@@ -978,6 +973,7 @@
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
+- [NightTrek/Software-planning-mcp](https://github.com/NightTrek/Software-planning-mcp) - An experiment in software planning using MCP
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [unit-mesh/autodev-workbench](https://github.com/unit-mesh/autodev-workbench) - AutoDev Workbench is an AI-native developer platform designed to accelerate, automate, and contextualize modern software development workflows.
