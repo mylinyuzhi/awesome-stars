@@ -123,7 +123,7 @@
 - [dbtoaster/dbtoaster-backend](https://github.com/dbtoaster/dbtoaster-backend) - The current backend of DBToaster, implemented in Scala.
 - [cmu-db/peloton](https://github.com/cmu-db/peloton) - The Self-Driving Database Management System
 - [alibaba/proxima](https://github.com/alibaba/proxima) - 
-- [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
+- [meta/CacheLib](https://github.com/meta/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 - [cosmoss-jigu/hydralist](https://github.com/cosmoss-jigu/hydralist) - 
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [hyrise/hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
