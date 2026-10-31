@@ -45,7 +45,6 @@
 
 ## C 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [HaloTech-Co-Ltd/openHalo](https://github.com/HaloTech-Co-Ltd/openHalo) - openHalo provides the capability for PostgreSQL to work with applications written for MySQL but provides much more better performance than MySQL.
@@ -436,7 +435,6 @@
 - [fuyufjh/calculator](https://github.com/fuyufjh/calculator) - A simple calculator to demonstrate code gen technology
 - [apache/geaflow](https://github.com/apache/geaflow) - Apache GeaFlow: A Streaming Graph Computing Engine.
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [alibaba/cost-based-incremental-optimizer](https://github.com/alibaba/cost-based-incremental-optimizer) - 
 - [dingodb/dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and 
@@ -910,7 +908,6 @@
 ## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [nmhjklnm/cac](https://github.com/nmhjklnm/cac) - Isolate, protect, and manage your Claude Code
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -927,6 +924,7 @@
 ## Swift 
 
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## TypeScript 
 
@@ -936,6 +934,7 @@
 - [durable-streams/durable-streams](https://github.com/durable-streams/durable-streams) - The data primitive for the agent loop.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [ZaynJarvis/aesthetics](https://github.com/ZaynJarvis/aesthetics) - A public workbook of design styles, aesthetics, and image-generation prompts.
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
