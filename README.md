@@ -750,7 +750,7 @@
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [triggermesh/knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
-- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
 - [antgroup/ant-ray](https://github.com/antgroup/ant-ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offering incremental new features on top of 
 - [Prinsphield/Wechat_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
 
