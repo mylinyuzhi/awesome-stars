@@ -313,7 +313,7 @@
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## ai-agent 
 
@@ -1357,7 +1357,7 @@
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
@@ -1440,7 +1440,7 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## low-code 
 
@@ -1480,7 +1480,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## macos 
 
@@ -2197,7 +2197,7 @@
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## quant 
 
@@ -2357,7 +2357,7 @@
 
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## sdn 
 
@@ -2507,7 +2507,7 @@
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is deprecated, users should migrate to OptimizationJob
+- [kubeflow/katib](https://github.com/kubeflow/katib) - WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer
 
 ## terminal 
 
