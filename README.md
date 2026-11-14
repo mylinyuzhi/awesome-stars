@@ -115,7 +115,6 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [wfnuser/Algorithms](https://github.com/wfnuser/Algorithms) - My Implementation of Well-Known Algorithms.
 - [xelabs/tokudb](https://github.com/xelabs/tokudb) - Next Generation DBMS TokuDB, based on Percona Server 5.7 with more features
-- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [alibaba/havenask](https://github.com/alibaba/havenask) - Havenask is a large-scale distributed information search system widely used within Alibaba Group
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [CASP-Systems-BU/Gadget](https://github.com/CASP-Systems-BU/Gadget) - A Benchmark Harness for Systematic and Robust Evaluation of Streaming State Stores
